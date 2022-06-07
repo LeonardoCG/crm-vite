@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+span{
+    font-family: 'Covered By Your Grace', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+}
