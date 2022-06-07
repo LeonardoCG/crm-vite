@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Renta de Casa",
+      "empresa": "www",
+      "email": "k234_nice@hotmail.com",
+      "telefono": "9969634037",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Renta de Casa",
+      "empresa": "www",
+      "email": "k234_nice@hotmail.com",
+      "telefono": "9969634037",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "ANDRES",
+      "empresa": "www",
+      "email": "k234_nice@hotmail.com",
+      "telefono": "9969634037",
+      "notas": "hola",
+      "id": 6
+    },
+    {
+      "nombre": "Leonardo Cach",
+      "empresa": "lola",
+      "email": "k234_nice@hotmail.com",
+      "telefono": "9969634037",
+      "notas": "ascasda",
+      "id": 8
+    }
+  ]
+}
